@@ -1,6 +1,6 @@
 # Predictive Analysis of Retail Sales: Furniture and Home Furnishings
 
-This projects consists of:
+This projects contains:
 
 - Project Design document
 - Project Report document
